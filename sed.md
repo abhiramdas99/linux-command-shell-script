@@ -15,4 +15,13 @@
 - node > -n : detect line , p : print . This command is extract the 3 line and display it
 # View the content after deleted match line from actual conent 
 ![image](https://github.com/abhiramdas99/linux-command-shell-script/assets/62290469/317c4a5f-4461-458c-9762-fcfe6ccec5bf)
+# Insert Space Between Lines
+- sed G text2.txt
+
+# Replace a Word in a Text File in each line 
+![image](https://github.com/abhiramdas99/linux-command-shell-script/assets/62290469/c326de9f-59e9-416c-a011-d0f273f8ded8)
+
+# Replace Words Only If a Match Is Found
+![image](https://github.com/abhiramdas99/linux-command-shell-script/assets/62290469/fe598fac-5c3c-4f2e-bfb1-8dab9d457124)
+
 
