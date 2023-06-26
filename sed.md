@@ -6,4 +6,7 @@
 - Deletion
 - Substitution (Find and replace)
 
+- We can undersatand  by following example -
+  ![image](https://github.com/abhiramdas99/linux-command-shell-script/assets/62290469/2786d16c-9437-46f2-a58b-569584cb72c0)
+
   
