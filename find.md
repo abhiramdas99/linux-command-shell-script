@@ -27,3 +27,6 @@ $ find . -type f -mmin -10
 
 # Find all files from the present directory which are modified before 10 days 
 $ find . -type f -mtime -10
+
+# Find all files from the present direcory which file size is greater than 50MB and less than 100MB
+find . -type f -size +50M -size -100M
